@@ -7,6 +7,7 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 | 1 | Order Summary                 | [Repo][order-summary-repo]  | [Live][order-summary-page]  |   |
 | 2 | Stats Card                    | [Repo][stats-card-repo]     | [Live][stats-card-page]     |   |
 | 3 | Social Proof Section          | [Repo][social-proof-repo]   | [Live][social-proof-page]   |   |
+| 4 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
 
 
 [order-summary-repo]: https://github.com/feliveira/fm-order-summary
@@ -15,3 +16,5 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 [stats-card-page]: https://feliveira.github.io/fm-statsPreviewCardComponent/
 [social-proof-repo]: https://github.com/feliveira/fm-social-proof
 [social-proof-page]: https://feliveira.github.io/fm-social-proof/
+[time-tracking-repo]: https://github.com/feliveira/fm-time-tracking
+[time-tracking-page]: https://feliveira.github.io/fm-time-tracking/
