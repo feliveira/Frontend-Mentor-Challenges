@@ -5,10 +5,10 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 |   | Challenge Name                | Repo                        | Live                        |   |
 |---|-------------------------------|-----------------------------|-----------------------------|---|
 | 1 | Order Summary                 | [Repo][order-summary-repo]  | [Live][order-summary-page]  |   |
-| 2 | Stats Card                    | [Repo][stats-card-repo]     | [Live][stats-card-page]     |   |
-| 3 | 3 Column Preview Card         | [Repo][3-column-repo]       | [Live][3-column-live]       |   |   
-| 4 | Social Proof Section          | [Repo][social-proof-repo]   | [Live][social-proof-page]   |   |
-| 5 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
+| 2 | Stats Preview Card            | [Repo][stats-card-repo]     | [Live][stats-card-page]     |   |
+| 3 | Social Proof Section          | [Repo][social-proof-repo]   | [Live][social-proof-page]   |   |
+| 4 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
+| 5 | 3 Column Preview Card         | [Repo][3-column-repo]       | [Live][3-column-live]       |   |
 
 
 [order-summary-repo]: https://github.com/feliveira/fm-order-summary
