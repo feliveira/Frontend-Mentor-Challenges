@@ -6,8 +6,9 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 |---|-------------------------------|-----------------------------|-----------------------------|---|
 | 1 | Order Summary                 | [Repo][order-summary-repo]  | [Live][order-summary-page]  |   |
 | 2 | Stats Card                    | [Repo][stats-card-repo]     | [Live][stats-card-page]     |   |
-| 3 | Social Proof Section          | [Repo][social-proof-repo]   | [Live][social-proof-page]   |   |
-| 4 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
+| 3 | 3 Column Preview Card         | [Repo][3-column-repo]       | [Live][3-column-live]       |   |   
+| 4 | Social Proof Section          | [Repo][social-proof-repo]   | [Live][social-proof-page]   |   |
+| 5 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
 
 
 [order-summary-repo]: https://github.com/feliveira/fm-order-summary
@@ -18,3 +19,5 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 [social-proof-page]: https://feliveira.github.io/fm-social-proof/
 [time-tracking-repo]: https://github.com/feliveira/fm-time-tracking
 [time-tracking-page]: https://feliveira.github.io/fm-time-tracking/
+[3-column-repo]:https://github.com/feliveira/fm-3-column-preview-card
+[3-column-live]:https://feliveira.github.io/fm-3-column-preview-card/
