@@ -9,6 +9,7 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 | 3 | Social Proof Section          | [Repo][social-proof-repo]   | [Live][social-proof-page]   |   |
 | 4 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
 | 5 | 3 Column Preview Card         | [Repo][3-column-repo]       | [Live][3-column-live]       |   |
+| 6 | Advice Generator              | [Repo][advice-gnrtr-repo]   | [Live][advice-gnrtr-live]   |   |
 
 
 [order-summary-repo]: https://github.com/feliveira/fm-order-summary
@@ -21,3 +22,5 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 [time-tracking-page]: https://feliveira.github.io/fm-time-tracking/
 [3-column-repo]:https://github.com/feliveira/fm-3-column-preview-card
 [3-column-live]:https://feliveira.github.io/fm-3-column-preview-card/
+[advice-gnrtr-repo]:https://github.com/feliveira/fm-advice-generator
+[advice-gnrtr-live]:https://feliveira.github.io/fm-advice-generator/
