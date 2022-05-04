@@ -10,6 +10,7 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 | 4 | Time Tracking Dashboard       | [Repo][time-tracking-repo]  | [Live][time-tracking-page]  |   |
 | 5 | 3 Column Preview Card         | [Repo][3-column-repo]       | [Live][3-column-live]       |   |
 | 6 | Advice Generator              | [Repo][advice-gnrtr-repo]   | [Live][advice-gnrtr-live]   |   |
+| 7 | QR Code Component             | [Repo][qr-code-component]   | [Live][qr-code-live]        |   |
 
 
 [order-summary-repo]: https://github.com/feliveira/fm-order-summary
@@ -24,3 +25,5 @@ Hi! :wave: This repository will contain all Frontend Mentor's Challenges that I 
 [3-column-live]:https://feliveira.github.io/fm-3-column-preview-card/
 [advice-gnrtr-repo]:https://github.com/feliveira/fm-advice-generator
 [advice-gnrtr-live]:https://feliveira.github.io/fm-advice-generator/
+[qr-code-component]:https://github.com/feliveira/fm-qr-code-component
+[qr-code-live]:https://feliveira.github.io/fm-qr-code-component/
